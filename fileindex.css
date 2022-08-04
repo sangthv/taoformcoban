@@ -1,0 +1,12 @@
+
+h2{
+    background-color: orangered;
+    text-align: center;
+    color: white;
+}
+tr,td{
+    color: orangered;
+}
+span {
+    color: black;
+}
